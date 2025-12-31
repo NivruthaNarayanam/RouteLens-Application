@@ -1,0 +1,8 @@
+{
+  "name": "Copy of RouteLens1",
+  "description": "Navigate Smarter, Travel Safer. RouteLens helps you choose the best route based on safety, lighting, and crowd presence.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
